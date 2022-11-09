@@ -2,7 +2,8 @@
 
 Repertório voltado para concentrar o aprendizado da linguagem phyton
 
-Linux e comandos
+
+### Linux e comandos
 
 Terminator é um terminal do Linux para configuração, e para facilitar o seu acesso existe alguns comandos básicos, sendo eles:
 - listar: lista todos os docs presentes no seu computador;
@@ -23,7 +24,7 @@ Terminator é um terminal do Linux para configuração, e para facilitar o seu a
 
 
 
-Diferença entre Git o Github/lab
+### Diferença entre Git e o Github/lab
 
 - Git: Irá criar o código, é responsável, portanto, pelo versionamento; 
 - Github/lab: são apenas repositórios, o que irá modificar os códigos já criados pelo git, servindo como uma rede social de códigos.
