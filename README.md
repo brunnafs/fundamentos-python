@@ -28,7 +28,7 @@ Terminator é um terminal do Linux para configuração, e para facilitar o seu a
 
 ```
 - Git: Irá criar o código, é responsável, portanto, pelo versionamento; 
-- Github/lab: são apenas repositórios, o que irá modificar os códigos já criados pelo git, servindo como uma rede social de códigos.
+- Github/lab: são apenas repositórios, o que irá modificar os códigos já criados pelo git.
 ```
 
 
