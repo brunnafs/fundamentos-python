@@ -4,8 +4,9 @@ Repertório voltado para concentrar o aprendizado da linguagem phyton
 
 ## Linux e comandos
 
-```
 Terminator é um terminal do Linux para configuração, e para facilitar o seu acesso existe alguns comandos básicos, sendo eles:
+
+```
 - listar: lista todos os docs presentes no seu computador;
 - mkdir: cria uma pasta;
 - cd "nome da pasta desejada": serve para abrir a pasta a qual deseja, se der "tab" ela abre cada arquivo dentro desta página;
@@ -40,6 +41,3 @@ Git commit -m "enserir mensagem aqui"
 Git pull origin main
 Git push origin main
 ```
-
-## Ambiente virtual
-shxgvx
